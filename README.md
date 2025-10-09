@@ -1,13 +1,15 @@
-# Characters
+# Gnome Characters Quick Copy
 
-Characters is a simple utility application to find and insert unusual
-characters.  It allows you to quickly find the character you are
-looking for by searching for keywords.
+![screenshot 3.png](data/screenshots/screenshot%203.png)
+
+Characters Quick Copy is a customization of the original Gnome Characters desktop app. 
+
+It allows you to quickly find the character you are looking for by searching for keywords and copy the choosen character to your clipboard with the simple and intuitive click of a the mouse, therefore skipping the character info dialog box.
+
+You can still open the character info dialog box by CTRL-clicking on the character. 
 
 ## Helpful Links
- * [File a Bug in GitLab](https://gitlab.gnome.org/GNOME/gnome-characters/issues)
- * [Download a Release Tarball](https://download.gnome.org/sources/gnome-characters/)
- * [Browse source code in Git version control](https://gitlab.gnome.org/GNOME/gnome-characters)
+ * [Browse source code in Git version control](https://github.com/francescogarbin/gnome-characters-)
  * [Learn more about Characters](https://apps.gnome.org/Characters/)
 
 ## Building
