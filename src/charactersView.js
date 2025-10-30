@@ -27,7 +27,7 @@ const BASELINE_OFFSET = 0.85;
 const CELLS_PER_ROW = 5;
 const NUM_ROWS = 5;
 const NUM_COLUMNS = 3;
-const CELL_SIZE = 50;
+const CELL_SIZE = 30;
 
 function getCellSize(fontDescription) {
     if (fontDescription === null || fontDescription.get_size() === 0)
